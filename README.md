@@ -37,4 +37,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/Ipaiva92/Ipaiva92/blob/output/github-contribution-grid-snake-svg)
+   ![Snake Animation](https://github.com/FlaviaFalotico/FlaviaFalotico/blob/output/github-contribution-grid-snake.svg)
