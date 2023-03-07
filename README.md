@@ -1,3 +1,7 @@
+<img align="center" alt="Gif" height="400" width="850" style="border-radius:50px;" display="block" src="https://giffiles.alphacoders.com/105/105186.gif">
+
+##
+
 ### Hi there, I am Igor Paiva 
 
 - 🔭 I’m currently working on QA Associate 3
