@@ -9,7 +9,6 @@
   <a href="https://github.com/Ipaiva92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ipaiva92&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipaiva92&layout=compact&langs_count=16&theme=dracula"/>
-     <img align="right" alt="Igao-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh65-1.fna.fbcdn.net/v/t51.2885-19/289500603_119280567320063_83332418719772031_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh65-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=niSwXavPttUAX8_7Cit&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfApgwWJtMacI-_eJ8vHZLHzFNpyHnb8DFWMkjzHkWcu5w&oe=640D1594&_nc_sid=1527a3?width=676&height=676">
 </div>
 
 <div style="display: inline_block"><br>
@@ -31,7 +30,8 @@
 <div> 
   <a href="https://instagram.com/igao_paiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ipaiva898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igorpaiva-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/igorpaiva-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://discord.gg/PTSq54UK"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/igor.paivaaraujo.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <iframe src="https://giphy.com/embed/jpbnoe3UIa8TU8LM13" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13">via GIPHY</a></p>
 </div>
