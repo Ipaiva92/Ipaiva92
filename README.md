@@ -47,6 +47,6 @@
   ##
   
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=github-readme-stats&cache_seconds=86400&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=dtmoney-Rockeseat&cache_seconds=86400&theme=dracula"/>
   </div>
   
