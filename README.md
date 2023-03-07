@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/igorpaiva-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://discord.gg/PTSq54UK"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/igor.paivaaraujo.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Igao-Gif" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/380/3803.gif">
+  <img align="right" alt="Igao-Gif" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/164/164378.gif">
 </div>
   
   ##
