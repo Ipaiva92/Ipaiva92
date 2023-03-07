@@ -9,7 +9,7 @@
   <a href="https://github.com/Ipaiva92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ipaiva92&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipaiva92&layout=compact&langs_count=16&theme=dracula"/>
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+     <img align="right" alt="Igao-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh65-1.fna.fbcdn.net/v/t51.2885-19/289500603_119280567320063_83332418719772031_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh65-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=niSwXavPttUAX8_7Cit&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfApgwWJtMacI-_eJ8vHZLHzFNpyHnb8DFWMkjzHkWcu5w&oe=640D1594&_nc_sid=1527a3?width=676&height=676">
 </div>
 
 <div style="display: inline_block"><br>
