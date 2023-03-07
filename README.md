@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/Ipaiva92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ipaiva92&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.apps/api/top-langs/?username=Ipaiva92&layout-compact&langs_count-16&theme-dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipaiva92&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,4 +21,3 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-[![Ipaiva92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipaiva92)](https://github.com/Ipaiva92/github-readme-stats)
