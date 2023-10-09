@@ -43,7 +43,7 @@
   
   ##
   
- ![Snake animation](https://github.com/ipaiva92/ipaiva92/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Ipaiva92/Ipaiva92/blob/output/github-contribution-grid-snake.svg)
   
   ##
   
