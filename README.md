@@ -50,5 +50,7 @@
   <div>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=dtmoney-Rockeseat&cache_seconds=86400&theme=dracula"/>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=NLW-Rocketseat&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=Itherum_BackEnd&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=Itherum_FrontEnd&cache_seconds=86400&theme=dracula"/>
   </div>
   
