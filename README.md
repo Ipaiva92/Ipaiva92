@@ -4,7 +4,7 @@
 
 ### Hi there, I am Igor Paiva 
 
-- 🔭 I’m currently working on QA Associate 3
+- 🔭 I’m currently working on Delivery Manager
 - 🌱 I’m currently learning React, React Native and Node JS
 - 📫 How to reach me using any Social Media or ipaiva92@outlook.com
 - 😄 Pronouns: he/him
