@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/Ipaiva92">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ipaiva92&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipaiva92&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qaipa00&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaipa00&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -35,7 +35,6 @@
 <div>
   <a href="https://www.facebook.com/igor.paivaaraujo.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/igorpaiva-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/PTSq54UK"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/igao_paiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ipaiva898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" alt="Igao-Gif" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/164/164378.gif">
@@ -48,9 +47,9 @@
   ##
   
   <div>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=dtmoney-Rockeseat&cache_seconds=86400&theme=dracula"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=NLW-Rocketseat&cache_seconds=86400&theme=dracula"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=Itherum_BackEnd&cache_seconds=86400&theme=dracula"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ipaiva92&repo=Itherum_FrontEnd&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=qaipa00&repo=dtmoney-Rockeseat&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=qaipa00&repo=NLW-Rocketseat&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=qaipa00&repo=Itherum_BackEnd&cache_seconds=86400&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=qaipa00&repo=Itherum_FrontEnd&cache_seconds=86400&theme=dracula"/>
   </div>
   
